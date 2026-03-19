@@ -1,0 +1,8 @@
+{
+  "name": "palletech-crm",
+  "version": "1.0.0",
+  "description": "Palletech CRM",
+  "dependencies": {
+    "googleapis": "^140.0.0"
+  }
+}
